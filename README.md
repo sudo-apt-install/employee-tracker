@@ -38,7 +38,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 The following video shows an example of the application being used from the command line:
 
-`Not yet available!`
+![Walkthrough](./assets/walkthrough.gif)
 
 
   ## License 
